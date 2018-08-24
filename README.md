@@ -13,7 +13,7 @@
 
 5. type `python vocalist.py oldfilename date person list`
 
-> For example: `python vocalist.py '0823' 'hsu' words.csv [1,5,6,9,11,15]`
+> For example: `python vocalist.py '0823' 'hsu' 'words.csv' [1,5,6,9,11,15]`
 > Remember to type '' and [], or it might show error
 
 6. The output filename will be `date_person.csv`
